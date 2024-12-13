@@ -46,7 +46,7 @@ function LoginPage() {
             Log In
           </button>
         </form>
-        <div className="text-center mt-4">
+        <div className="text-center mt-4 text-wrap">
           <a href="/forgot-password" className="text-blue-500 text-sm hover:underline">
             Forgotten password?
           </a>
